@@ -1,6 +1,8 @@
 # bloc_again
 A new Flutter project.
 
+![plot](./screenshots/Screenshot_2023-09-07-10-42-45-700_com.example.bloc_again - Copy.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
