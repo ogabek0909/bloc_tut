@@ -1,5 +1,5 @@
 # bloc_again
-
+![plot](./directory_1/directory_2/.../directory_n/plot.png)
 A new Flutter project.
 
 ## Getting Started
